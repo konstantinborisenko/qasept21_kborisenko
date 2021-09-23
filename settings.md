@@ -1,4 +1,5 @@
-1. Entered link updates user's picture
+
+ 1. Entered link updates user's picture
  2. User is allowed to update name
  3. 200 characters are allowed to enter
  4. New email is unused on previous registrations
